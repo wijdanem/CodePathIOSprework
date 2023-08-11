@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://giphy.com/gifs/2EfPxNCmS3We5MtKK8" target="_blank">Video Walkthrough</a>
+[Video Walkthrough](https://giphy.com/gifs/2EfPxNCmS3We5MtKK8)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
