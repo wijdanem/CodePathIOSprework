@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///private/var/folders/3g/gf9vfpjs5m3fqz9j7rkqp_tr0000gn/T/71d58e88417dc3c3a62260cd17b95317/Kapture%202023-08-11%20at%2000.26.51.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///Users/wijdanemifdal/Desktop/appwalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
