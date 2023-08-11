@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 [![Video Walkthrough](https://media.giphy.com/media/2EfPxNCmS3We5MtKK8/giphy.gif)](https://giphy.com/gifs/2EfPxNCmS3We5MtKK8)
 
-
+gif link: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F0dGsxMjB4bm80ZGplb3RuZ3cwNW9taGZmOXY1Z2NsbzI1MGVweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2EfPxNCmS3We5MtKK8/giphy.gif
 ## App Brainstorming (Step 4)
 
 ## Notes
