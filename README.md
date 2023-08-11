@@ -17,8 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/wijdanemifdal/Desktop/appwalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<a href="https://giphy.com/gifs/2EfPxNCmS3We5MtKK8" target="_blank">Video Walkthrough</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
