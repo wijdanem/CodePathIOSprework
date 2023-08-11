@@ -4,7 +4,7 @@ Submitted by: Wijdane Mifdal
 
 Preworkios is an app designed with a dynamic color-changing interface; each time you press the "Press Me!" button, the background transforms from its original color (pink) to a new color, offering a fresh visual experience with every push! 
 
-Time spent: 2 hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
